@@ -1,0 +1,8 @@
+{
+  "appId": "org.conservationalliance.mennipara",
+  "appName": "Menni Para Tortoise",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
