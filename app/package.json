@@ -4,10 +4,12 @@
   "description": "CCA Menni Para Tortoise offline field app",
   "private": true,
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
     "@capacitor/cli": "^6.1.2"
   },
   "dependencies": {
     "@capacitor/android": "^6.1.2",
-    "@capacitor/core": "^6.1.2"
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/geolocation": "^6.1.0"
   }
 }
